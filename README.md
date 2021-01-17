@@ -15,7 +15,7 @@ This is my Day Two Assignment of this course
 ✔️ Create a Function that return sum of two numbers if number are >= 10                                                                                          
 ✔️ Create a Function that accepts a name and return the reverse of it                                                                                   
 
-#------------------------------------------------------------------------------------------------------------------------------------------------------   
+#--------------------------------------------------------------------------------------------------------------------------------  
 This is my Day three Assignment of this course                                                                                                          
 ✔️ WAP to input Employee data(id,name,salary) for 10 employees in file emp.txt                                                                          
 ✔️ WAP to read data from emp.txt file                                                                                                                   
@@ -23,6 +23,6 @@ This is my Day three Assignment of this course
 ✔️ WAP to count the number of letters of any text file in the disk                                                                                              
 ✔️ WAP to read emp.txt and print name of employee only                                                                                                  
 
-#------------------------------------------------------------------------------------------------------------------------------------------------------   
+#--------------------------------------------------------------------------------------------------------------------------------- 
 This is my Day Four Assignment of this course                                                                                                           
 ✔️ CRUD on table(dynamically input)                                                                                                                     
