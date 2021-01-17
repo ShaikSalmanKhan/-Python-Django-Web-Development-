@@ -7,7 +7,7 @@ This is my Day One Assignment of this course
 ✔️ Make a program to take two user input & swap them                                       
 ✔️ Make a program that takes a user input and test if it is Even or Odd                     
 
-#------------------------------------------------------------------------------------------------------------------------------------------------------   
+#-------------------------------------------------------------------------------------------------------------------------------- 
 This is my Day Two Assignment of this course                                                                                                                          
 ✔️ Make a program to input three numbers & print the highest                                                                                             
 ✔️ Make a program to input number & print the Table of it                                                                                                        
